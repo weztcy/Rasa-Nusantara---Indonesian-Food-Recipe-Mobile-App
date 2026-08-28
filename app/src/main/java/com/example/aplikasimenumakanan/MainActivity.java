@@ -45,11 +45,11 @@ public class MainActivity extends AppCompatActivity {
 
     private void initData(){
         this.listKuliner = new ArrayList<>();
-        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Lunpia", "Makanan khas Jawa Tengah", "Rp. 40.000", R.drawable.lunpia));
-        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Rujak Cingur", "Makanan khas Jawa Timur", "Rp. 15.000", R.drawable.rujak_cingur));
-        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Karedok", "Makanan khas Jawa Barat", "Rp. 10.000", R.drawable.karedok));
-        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Gudeg", "Makanan khas Yogyakarta", "Rp. 50.000", R.drawable.gudeg));
-        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Kerak Telor", "Makanan khas DKI Jakarta", "Rp. 20.000", R.drawable.kerak_telor));
-        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Sate Bandeng", "Makanan khas Banten", "Rp. 30.000", R.drawable.sate_bandeng));
+        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Lunpia", "Khas Jawa Tengah", "Rp. 40.000", R.drawable.lunpia));
+        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Rujak Cingur", "Khas Jawa Timur", "Rp. 15.000", R.drawable.rujak_cingur));
+        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Karedok", "Khas Jawa Barat", "Rp. 10.000", R.drawable.karedok));
+        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Gudeg", "Khas Yogyakarta", "Rp. 50.000", R.drawable.gudeg));
+        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Kerak Telor", "Khas DKI Jakarta", "Rp. 20.000", R.drawable.kerak_telor));
+        listKuliner.add(new com.example.aplikasimenumakanan.Kuliner("Sate Bandeng", "Khas Banten", "Rp. 30.000", R.drawable.sate_bandeng));
     }
 }

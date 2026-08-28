@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="25dp"
+    android:baselineAligned="false">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:id="@+id/foto"
+            android:src="@drawable/ic_launcher_background"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="15dp">
+            <TextView
+                android:id="@+id/nama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nama makanan"
+                android:textSize="23dp"
+                android:textStyle="bold"
+                android:textColor="#f9530b"/>
+            <TextView
+                android:id="@+id/deskripsi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Deskripsi"
+                android:textSize="17dp"
+                android:textColor="#ff9005"/>
+            <TextView
+                android:id="@+id/harga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Harga"
+                android:textSize="14dp"
+                android:textAlignment="textEnd"
+                android:textStyle="italic"
+                android:textColor="#fbd808"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

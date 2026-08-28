@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable food
+drawable gudeg
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable karedok
+drawable kerak_telor
+drawable lunpia
+drawable rujak_cingur
+drawable sate_bandeng
+id deskripsi
+id foto
+id harga
+id menu
+id nama
+layout activity_main
+layout detail_makanan
+layout item_makanan
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.AplikasiMenuMakanan
+xml backup_rules
+xml data_extraction_rules

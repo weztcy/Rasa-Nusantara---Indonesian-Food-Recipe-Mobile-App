@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="30dp">
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="nama makanan"
+        android:textSize="35dp"
+        android:textAlignment="center"/>
+    <ImageView
+        android:id="@+id/foto"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/ic_launcher_background"
+        android:layout_gravity="center"/>
+    <TextView
+        android:id="@+id/deskripsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="deskripsi makanan"/>
+    <TextView
+        android:id="@+id/harga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="harga"/>
+</LinearLayout>
