@@ -62,24 +62,6 @@ This project was developed to:
 
 * Provide a foundation that can be further developed with additional recipe-related features in the future
 
-## 🚀 Future Development
-
-The current version of Rasa Nusantara Mobile App provides the fundamental features required for browsing and reading food recipes.
-
-The application can be further developed with additional features such as:
-
-* Recipe search
-
-* Recipe categories
-
-* Favorite recipes
-
-* Additional Indonesian food recipes
-
-* Recipe filtering
-
-* Improved user interface and user experience
-
 ## 📜 License
 
 This project is maintained for educational, portfolio, reference, and development purposes.
