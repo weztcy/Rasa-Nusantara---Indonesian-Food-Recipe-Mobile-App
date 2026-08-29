@@ -1,60 +1,99 @@
-# Food Recipe Mobile App
+# Rasa Nusantara Mobile App
 
-**Food Recipe Mobile App** is an Android application developed using **Android Studio** with **Java** as the programming language.
+**Rasa Nusantara Mobile App** is a simple Android application developed using **Android Studio**, with **Java** as the programming language and **XML** for designing the user interface.
 
-The application provides a structured and user-friendly interface for browsing food recipes, viewing ingredients, and accessing cooking instructions through a mobile platform.
+The application provides information about Indonesian food recipes in a structured and user-friendly format. Users can browse a list of recipes, view brief information about each dish, and access complete recipe details including descriptions, ingredients, and step-by-step cooking instructions.
 
 ## 🍽️ About the Project
 
-Food Recipe Mobile App was developed as a mobile recipe platform that allows users to explore and view different food recipes in an organized and accessible format.
+Rasa Nusantara Mobile App was developed as a simple mobile recipe application that provides users with easy access to Indonesian food recipes through Android devices.
 
-The application focuses on clear information presentation, intuitive navigation, consistent interface behavior, and efficient interaction across recipe-related content.
+The application presents recipe information in a structured format, starting from a recipe list containing brief information such as the food image, recipe name, cooking time, and difficulty level.
 
-## ✨ Features
+Users can select a recipe to access a detailed page containing the food description, required ingredients, and cooking instructions presented in sequential order.
 
-Key features and implementations include:
+The application focuses on simplicity, clear information presentation, organized project structure, and ease of use.
 
-* Food recipe listing
-* Recipe detail pages
-* Ingredient information
-* Cooking instructions
-* Structured recipe presentation
-* Navigation between application pages
-* Interactive user interface
-* Simple and intuitive design
-* Consistent content layout
-* Android-based mobile interface
+## ✨ Key Features
+
+* Food recipe collection
+
+* Recipe preview with image, cooking time, and difficulty level
+
+* Complete recipe detail pages
+
+* Food descriptions
+
+* Ingredient lists
+
+* Step-by-step cooking instructions
+
+* Simple navigation between recipe list and detail pages
+
+* Clean, organized, and user-friendly interface
 
 ## 🛠️ Technologies
 
 The main technologies used in this project are:
 
 * Android Studio
+
 * Java
+
 * Android SDK
+
 * XML
 
 ## 🎯 Project Objectives
 
 This project was developed to:
 
-* Provide an accessible mobile platform for browsing food recipes
-* Present recipe information in a clear and structured format
-* Provide intuitive navigation between recipe listings and detailed content
-* Maintain consistent interface behavior across application pages
-* Deliver an efficient and user-friendly recipe browsing experience
-* Provide a functional foundation for further recipe-related features and content expansion
+* Develop a simple Android application that functions as a source of food recipe information
+
+* Make it easier for users to find and read food recipes through Android devices
+
+* Present recipe information in a structured format, from brief recipe information to detailed ingredients and cooking instructions
+
+* Apply fundamental Android application development concepts using Java and XML
+
+* Implement recipe data management, recipe listing, and recipe detail pages within an organized project structure
+
+* Create a simple, informative, and user-friendly application
+
+* Provide a foundation that can be further developed with additional recipe-related features in the future
 
 ## 📱 Mobile Application
 
-The application is designed specifically for Android devices with a focus on simplicity, accessibility, and clear information presentation.
+Rasa Nusantara Mobile App is designed specifically for Android devices with a focus on simplicity, accessibility, and clear information presentation.
 
-The interface is structured to make recipe content easy to browse and understand while maintaining consistent navigation throughout the application.
+The main page displays a collection of Indonesian food recipes. Each recipe provides brief information including an image, food name, cooking time, and difficulty level.
+
+When a recipe is selected, users are directed to a recipe detail page containing a description of the food, the required ingredients, and step-by-step cooking instructions.
+
+The interface is designed to keep recipe content easy to browse, read, and understand.
+
+## 🚀 Future Development
+
+The current version of Rasa Nusantara Mobile App provides the fundamental features required for browsing and reading food recipes.
+
+The application can be further developed with additional features such as:
+
+* Recipe search
+
+* Recipe categories
+
+* Favorite recipes
+
+* Additional Indonesian food recipes
+
+* Recipe filtering
+
+* Improved user interface and user experience
 
 ## 📜 License
 
-This project is maintained for portfolio, reference, and development purposes.
+This project is maintained for educational, portfolio, reference, and development purposes.
 
 ---
 
-**Food Recipe Mobile App — Android Application Using Java**
+**Rasa Nusantara Mobile App — Indonesian Food Recipe Android Application Using Java**
