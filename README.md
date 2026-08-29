@@ -14,7 +14,7 @@ Users can select a recipe to access a detailed page containing the food descript
 
 The application focuses on simplicity, clear information presentation, organized project structure, and ease of use.
 
-## ✨ Key Features
+## ✨ Features
 
 * Food recipe collection
 
