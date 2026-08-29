@@ -1,12 +1,12 @@
-# Rasa Nusantara Mobile App
+# Rasa Nusantara - Food Recipe Mobile App
 
-**Rasa Nusantara Mobile App** is a simple Android application developed using **Android Studio**, with **Java** as the programming language and **XML** for designing the user interface.
+**Rasa Nusantara - Food Recipe Mobile App** is a simple Android application developed using **Android Studio**, with **Java** as the programming language and **XML** for designing the user interface.
 
 The application provides information about Indonesian food recipes in a structured and user-friendly format. Users can browse a list of recipes, view brief information about each dish, and access complete recipe details including descriptions, ingredients, and step-by-step cooking instructions.
 
 ## 🍽️ About the Project
 
-Rasa Nusantara Mobile App was developed as a simple mobile recipe application that provides users with easy access to Indonesian food recipes through Android devices.
+Rasa Nusantara was developed as a simple mobile recipe application that provides users with easy access to Indonesian food recipes through Android devices.
 
 The application presents recipe information in a structured format, starting from a recipe list containing brief information such as the food image, recipe name, cooking time, and difficulty level.
 
@@ -62,16 +62,6 @@ This project was developed to:
 
 * Provide a foundation that can be further developed with additional recipe-related features in the future
 
-## 📱 Mobile Application
-
-Rasa Nusantara Mobile App is designed specifically for Android devices with a focus on simplicity, accessibility, and clear information presentation.
-
-The main page displays a collection of Indonesian food recipes. Each recipe provides brief information including an image, food name, cooking time, and difficulty level.
-
-When a recipe is selected, users are directed to a recipe detail page containing a description of the food, the required ingredients, and step-by-step cooking instructions.
-
-The interface is designed to keep recipe content easy to browse, read, and understand.
-
 ## 🚀 Future Development
 
 The current version of Rasa Nusantara Mobile App provides the fundamental features required for browsing and reading food recipes.
@@ -96,4 +86,4 @@ This project is maintained for educational, portfolio, reference, and developmen
 
 ---
 
-**Rasa Nusantara Mobile App — Indonesian Food Recipe Android Application Using Java**
+**Rasa Nusantara - Food Recipe Mobile App — Indonesian Food Recipe Android Application Using Java**
